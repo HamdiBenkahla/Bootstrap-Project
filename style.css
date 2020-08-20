@@ -1,0 +1,55 @@
+
+
+
+.holder {
+	float: left;
+  width: 33.33%;
+  padding: 20px;
+	border-radius: 20px;
+	position: relative;
+  width: 25%;
+  height: 300px;
+  
+}
+.pic{
+	border-radius: 20px;
+	width: 100%;
+	height: 65%;
+}
+
+.image {
+	border-radius: 20px
+  opacity: 1;
+  width: 100%;
+  height: 100%;
+ }
+
+.info{
+	position:absolute;
+	 bottom: 10px;
+	 left: 35%;
+	 right: 30%;
+
+}
+#buy{
+	position: absolute;
+	bottom: 100px;
+	opacity: 0;
+
+}
+p{
+	font-family: "circe";
+	letter-spacing: 1.1px;
+}
+
+.holder:hover .image {
+  opacity: 0.3;
+}
+
+.holder:hover #buy {
+  opacity: 1;
+}
+
+.text {
+
+}

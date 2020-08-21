@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+=======
+
+.buying{
+    position: fixed;
+    bottom: 370px;
+	height: 250px;
+	width: 500px;
+	left: 35%;
+}
+
+
+>>>>>>> 005aa1fb0cc02216a4773d3cd95ecab3cf4bcd56
 .holder {
 	float: left;
   width: 33.33%;

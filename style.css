@@ -1,5 +1,11 @@
 
-
+.buying{
+    position: fixed;
+    bottom: 370px;
+	height: 250px;
+	width: 500px;
+	left: 35%;
+}
 
 
 .holder {

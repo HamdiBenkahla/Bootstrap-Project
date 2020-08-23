@@ -112,18 +112,7 @@ var createDiv = function(){
   	$(".row").hide();
   	$("body").append(newdiv);
 
-<<<<<<< HEAD
-  	
-  	$('#quantity').on('change', function(){
-  		console.log("changed");
 
-  	});
-  //console.log()
-
-
-  
-  });
-=======
 
  	$('#quantity').on('change', function(){
   		console.log("changed");
@@ -146,10 +135,6 @@ var createDiv = function(){
 
 })
 });
-
-  
-  
->>>>>>> 005aa1fb0cc02216a4773d3cd95ecab3cf4bcd56
 //}
 
 $("#home").click(function(){
